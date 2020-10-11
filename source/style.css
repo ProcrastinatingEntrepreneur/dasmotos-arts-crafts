@@ -1,0 +1,34 @@
+.helvetica {
+    font-family: Helvetica;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.main-heading {
+    background-image: url("../images/image-1.webp");
+    font-size: 100px;
+    color: khaki;
+}
+
+.categories {
+    font-size: 32px;
+    color: white;
+}
+
+.blue {
+    color: blue;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.paint {
+    background-color: skyblue;
+}
